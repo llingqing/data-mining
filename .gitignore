@@ -8,6 +8,8 @@ experiment2/data/cifar-10-batches-py/data_batch_5
 experiment2/data/cifar-10-batches-py/readme.html
 experiment2/data/cifar-10-batches-py/test_batch
 experiment2/data/cifar-10-python.tar.gz
+experiment2/output/class_distribution.png
+experiment2/output/confusion_matrix.png
 experiment2/output/training_curve.png
 experiment2/output/sample_images.png
 experiment2/output/prediction_examples.png
